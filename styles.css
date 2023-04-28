@@ -1,0 +1,56 @@
+#body {
+    background-color: steelblue;
+}
+
+#header {
+    color : antiquewhite;
+    background-color: cadetblue;
+    text-align: center;
+    font-family: "Lucida Console", Monospace;
+}
+
+#maintext {
+    color : whitesmoke;
+    text-align: center;
+    font-family: "Monaco", Monospace;
+}
+
+.box1 {
+    width: 300px;
+    border: 10px solid mediumaquamarine;
+    background-color: dimgray;
+    padding: 50px;
+    margin: auto;
+    justify-self: center;
+    align-self: center;
+}
+
+.box2 {
+    width: 300px;
+    border: 10px solid mediumaquamarine;
+    background-color: gray;
+    padding: 50px;
+    margin: auto;
+    justify-self: center;
+    align-self: center;
+}
+
+.box3 {
+    width: 300px;
+    border: 10px solid mediumaquamarine;
+    background-color: slategray;
+    padding: 50px;
+    margin: auto;
+    justify-self: center;
+    align-self: center;
+}
+
+.box4 {
+    width: 300px;
+    border: 10px solid mediumaquamarine;
+    background-color: lightslategray;
+    padding: 50px;
+    margin: auto;
+    justify-self: center;
+    align-self: center;
+}
